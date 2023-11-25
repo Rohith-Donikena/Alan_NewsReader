@@ -1,0 +1,17 @@
+#root,html,body{
+    height:100vh;
+}
+
+body{
+    margin:0;
+    /* background-color: rgb(183, 154, 154)11, 111); */
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.281) rgba(0, 0, 0, 0.135).15) 100%), radial-gradient(at top center, rgba(255, 255, 255, 0.592) 0%, rgba(0,0,0,0.40) 120%) #989898;
+}
+*{
+    box-sizing: border-box;
+    font-size: 13px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
